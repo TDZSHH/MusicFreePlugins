@@ -3,7 +3,7 @@
   "plugins": [
     {
       "name": "Audiomack",
-      "url": "https://gitee.com/maotoumo/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
       "version": "0.0.2"
     },
     {
