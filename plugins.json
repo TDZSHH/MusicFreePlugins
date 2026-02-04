@@ -7,6 +7,11 @@
       "version": "0.0.2"
     },
     {
+      "name": "元力KW",
+      "url": "http://music.haitangw.net/cqapi/kw.js",
+      "version": "0.1.0"
+    },
+    {
       "name": "5sing",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
       "version": "0.0.3"
