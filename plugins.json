@@ -7,24 +7,39 @@
       "version": "0.0.2"
     },
     {
-      "name": "元力KW",
-      "url": "http://music.haitangw.net/cqapi/kw.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "5sing",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
-      "version": "0.0.3"
-    },
-    {
-      "name": "网易云电台",
-      "url": "https://fastly.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js",
-      "version": "0.0.2"
+      "name": "网易音乐",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/wy.js",
+      "version": "0.0.1"
     },
     {
       "name": "QQ音乐",
       "url": "https://gitee.com/maotoumao/plugins-list1/raw/master/qq.js",
       "version": "0.2.5"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/kg.js",
+      "version": "0.0.1"
+    },
+    {
+      "name": "元力KW",
+      "url": "http://music.haitangw.net/cqapi/kw.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "开心汽水",
+      "url": "https://gitee.com/hongmengv5/musicfree/raw/master/qishui.js",
+      "version": "0.1.5"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
+      "version": "0.2.3"
+    },
+    {
+      "name": "5sing",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
+      "version": "0.0.3"
     },
     {
       "name": "Navidrome",
@@ -50,11 +65,6 @@
       "name": "WebDAV",
       "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
       "version": "0.0.2"
-    },
-    {
-      "name": "bilibili",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
-      "version": "0.2.3"
     },
     {
       "name": "Suno",
