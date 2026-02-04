@@ -2,24 +2,24 @@
   "desc": "0.1.0",
   "plugins": [
     {
-      "name": "Audiomack",
-      "url": "https://gitee.com/maotoumo/MusicFreePlugins/raw/v0.1/dist/audiomack/index.js",
-      "version": "0.0.2"
+      "name": "元力WY",
+      "url": "https://13413.kstore.vip/yuanli/wy.js",
+      "version": "1.1.1"
     },
     {
-      "name": "5sing",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
-      "version": "0.0.3"
+      "name": "元力KG",
+      "url": "https://13413.kstore.vip/yuanli/kg.js",
+      "version": "1.1.0"
     },
     {
-      "name": "网易云电台",
-      "url": "https://fastly.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js",
-      "version": "0.0.2"
+      "name": "元力KW",
+      "url": "https://13413.kstore.vip/yuanli/kw.js",
+      "version": "1.1.0"
     },
     {
-      "name": "QQ音乐",
-      "url": "https://gitee.com/maotoumao/plugins-list1/raw/master/qq.js",
-      "version": "0.2.5"
+      "name": "元力QQ",
+      "url": "https://13413.kstore.vip/yuanli/qq.js",
+      "version": "1.1.1"
     },
     {
       "name": "Navidrome",
@@ -45,11 +45,6 @@
       "name": "WebDAV",
       "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
       "version": "0.0.2"
-    },
-    {
-      "name": "bilibili",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/bilibili/index.js",
-      "version": "0.2.3"
     },
     {
       "name": "Suno",
