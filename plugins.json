@@ -1,40 +1,55 @@
 {
+  "desc": "此链接为 MusicFree 插件，插件开发及使用方式参考 https://musicfree.upup.fun，版本 0.1.1",
   "plugins": [
     {
-      "name": "bilibili",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/bilibili.js"
+      "name": "元力WY",
+      "url": "https://13413.kstore.vip/yuanli/wy.js",
+      "version": "1.1.1"
     },
     {
-      "name": "咪咕",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/migu.js"
+      "name": "元力KG",
+      "url": "https://13413.kstore.vip/yuanli/kg.js",
+      "version": "1.1.0"
     },
     {
-      "name": "网易云",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/netease.js"
+      "name": "元力KW",
+      "url": "https://13413.kstore.vip/yuanli/kw.js",
+      "version": "1.1.0"
     },
     {
-      "name": "全民K歌",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/qmkg.js"
+      "name": "元力QQ",
+      "url": "https://13413.kstore.vip/yuanli/qq.js",
+      "version": "1.1.1"
     },
     {
-      "name": "酷我",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/kuwo.js"
+      "name": "Navidrome",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/navidrome/index.js",
+      "version": "0.0.0"
     },
     {
-      "name": "千千音乐",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/qianqian.js"
+      "name": "歌词千寻",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciqianxun/index.js",
+      "version": "0.0.0"
     },
     {
-      "name": "5sing",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/5sing.js"
+      "name": "歌词网",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciwang/index.js",
+      "version": "0.0.0"
     },
     {
-      "name": "酷狗",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/kugou.js"
+      "name": "udio",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/udio/index.js",
+      "version": "0.0.0"
     },
     {
-      "name": "QQ音乐",
-      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/master/qq.js"
+      "name": "WebDAV",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/webdav/index.js",
+      "version": "0.0.2"
+    },
+    {
+      "name": "Suno",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js",
+      "version": "0.0.0"
     }
   ]
 }
