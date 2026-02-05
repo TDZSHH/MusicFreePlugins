@@ -17,11 +17,6 @@
       "version": "0.0.2"
     },
     {
-      "name": "元力QQ",
-      "url": "http://music.haitangw.net/cqapi/qq.js",
-      "version": "0.1.0"
-    },
-    {
       "name": "爱听",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/at.js",
       "version": "0.1.0"
@@ -30,11 +25,6 @@
       "name": "种子",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/zz.js",
       "version": "0.1.0"
-    },
-    {
-      "name": "云云音乐",
-      "url": "https://2209.kstore.space/xiaochen.js",
-      "version": "1.0.3"
     },
     {
       "name": "Navidrome",
