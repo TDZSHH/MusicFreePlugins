@@ -17,9 +17,19 @@
       "version": "0.0.2"
     },
     {
+      "name": "KuGou Lite",
+      "url": "http://api.vsaa.cn/musicfree/kugou.lite.js",
+      "version": "2.3.0"
+    },
+    {
       "name": "元力QQ",
       "url": "http://music.haitangw.net/cqapi/qq.js",
       "version": "0.1.0"
+    },
+    {
+      "name": "Qishui Vip",
+      "url": "https://gitee.com/janyun/music-free-plugin/raw/master/qishui.vip.js",
+      "version": "2.2.0"
     },
     {
       "name": "爱听",
