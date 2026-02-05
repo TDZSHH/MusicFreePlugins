@@ -1,4 +1,5 @@
 {
+  "desc": "测试插件源 - MusicFree 插件合集",
   "plugins": [
     {
       "name": "碳酸氢钠",
@@ -7,7 +8,7 @@
     },
     {
       "name": "腾讯音乐",
-      "url": "https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/tx.js",
+      "url": "https://raw.githubusercontent.com/ThomasBy2025/musicfree/main/plugins/tx.js",
       "version": "0.0.1"
     },
     {
