@@ -1,5 +1,5 @@
 {
-  "desc": "此链接为 MusicFree 插件，插件开发及使用方式参考 https://musicfree.upup.fun，版本 0.1.1",
+  "desc": "MusicFree 插件，版本 0.1.1",
   "plugins": [
     {
       "name": "元力WY",
